@@ -1,13 +1,19 @@
-## Welcome to GitHub Pages
+## Fighting Fantasy Helper
 
-You can use the [editor on GitHub](https://github.com/revwhyte/revwhyte.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[The Fighting Fantasy books](https://en.wikipedia.org/wiki/Fighting_Fantasy) really made my teenage years better.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+It was fun to live an adventure using just a book, a pencil, some dice and my imagination.
+Using only those tools, I could live as many stories as I wanted, and I really missed it after I grew up, because the books were really rare at my city (the ones I used to play were borrowed, and I didn't have access to many of them).
 
-### Markdown
+Long story short: A brazilian publisher brought those books back and I, of course, bought many of them, so I could feel that feeling again.
+And I decided to add a new tool to that new journey: a helper.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### What is FF Helper?
 
+FF Helper will help you with your stats, your loot and let you play without worrying about it.
+All you have to do is start a journey and save it when you're done, so you can continue another time exactly where you stopped.
+Just give that story a name and that's it: you can bring it back again later.
+<!--
 ```markdown
 Syntax highlighted code block
 
@@ -28,10 +34,4 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/revwhyte/revwhyte.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-->
