@@ -13,6 +13,10 @@ And I decided to add a new tool to that new journey: a helper.
 FF Helper will help you with your stats, your loot and let you play without worrying about it.
 All you have to do is start a journey and save it when you're done, so you can continue another time exactly where you stopped.
 Just give that story a name and that's it: you can bring it back again later.
+
+<!-- https://docs.github.com/en/github/working-with-github-pages -->
+<!-- https://pages.github.com/ -->
+
 <!--
 ```markdown
 Syntax highlighted code block
